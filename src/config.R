@@ -12,6 +12,4 @@ DATADIR<-"/Users/baidu/work/didi/data"
 BINDIR<-"/Users/baidu/work/didi/bin"
 
 cat("################ 加载lib,设置路径\n")
-
-
-
+#### init
